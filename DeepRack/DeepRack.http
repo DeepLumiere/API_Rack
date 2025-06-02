@@ -1,0 +1,6 @@
+@DeepRack_HostAddress = http://localhost:5011
+
+GET {{DeepRack_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
