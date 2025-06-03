@@ -11,6 +11,7 @@ namespace DeepRack.Models
         [Required]
         public string Name { get; set; }
 
+        [Required]
         public string Email { get; set; }
 
         public DateTime Date { get; set; }

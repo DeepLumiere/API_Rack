@@ -22,4 +22,8 @@
         <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="8.1.2" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="API_Collection\NotesAPI\" />
+    </ItemGroup>
+
 </Project>
