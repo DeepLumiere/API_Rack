@@ -1,13 +1,13 @@
 # DeepRack - ASP.NET Core Web API with PostgreSQL
 
-This project is a simple ASP.NET Core Web API that allows users to book and view appointments. It uses PostgreSQL as the database and Entity Framework Core for ORM.
+This project is a simple ASP.NET Core Web API that allows users to save data on the fly using APIs. It uses PostgreSQL as the database and Entity Framework Core for ORM.
 
 ---
 
 ## 🚀 Features
 
-- Book appointments through a public API
-- Store appointments in PostgreSQL
+- Save data through a public API
+- Store entries in PostgreSQL
 - Use EF Core Migrations to manage the database schema
 - Swagger UI for API testing
 
